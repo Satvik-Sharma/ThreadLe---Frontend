@@ -145,9 +145,9 @@ export const Login: React.FC = () => {
           {/* Demo Credentials */}
           <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
             <p className="text-sm text-blue-800 font-medium mb-2">Demo Credentials:</p>
-            <div className="text-xs text-blue-700 space-y-1">
-              <p><strong>User:</strong> user@blognova.com / password123</p>
-              <p><strong>Admin:</strong> admin@blognova.com / admin123</p>
+            <div className="text-xs text-blue-700 space-y-1 flex flex-col gap-2">
+              <p>Adding admin email and password for reference: </p>
+              <p><strong>Admin:</strong> admin@threadle.com / ADMIN123</p>
             </div>
           </div>
 
