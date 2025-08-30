@@ -41,7 +41,7 @@ export const Navbar: React.FC = () => {
               <PenTool className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl logo font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              BlogNova
+              ThreadLe
             </span>
           </Link>
 
