@@ -58,7 +58,7 @@ export const Login: React.FC = () => {
             <LogIn className="w-8 h-8 text-white" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900">Welcome back</h2>
-          <p className="mt-2 text-gray-600">Sign in to your BlogNova account</p>
+          <p className="mt-2 text-gray-600">Sign in to your ThreadLe account</p>
         </div>
 
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>

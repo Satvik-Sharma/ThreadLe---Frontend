@@ -83,7 +83,7 @@ export const Signup: React.FC = () => {
             <UserPlus className="w-8 h-8 text-white" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900">Create your account</h2>
-          <p className="mt-2 text-gray-600">Join BlogNova and start sharing your stories</p>
+          <p className="mt-2 text-gray-600">Join ThreadLe and start sharing your stories</p>
         </div>
 
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
